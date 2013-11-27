@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessorService", "MessageProcessorService\MessageProcessorService.csproj", "{64F02A3C-B614-43A6-BED3-2D21A9B50A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessor", "MessageProcesscor\MessageProcessor.csproj", "{D6418743-214A-46AD-81E5-6FD39DC3E916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessor.Tests", "MessageProcessor.Tests\MessageProcessor.Tests.csproj", "{43EA5966-A3E3-4F2E-A3DF-EDE1135219A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F02A3C-B614-43A6-BED3-2D21A9B50A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F02A3C-B614-43A6-BED3-2D21A9B50A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F02A3C-B614-43A6-BED3-2D21A9B50A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F02A3C-B614-43A6-BED3-2D21A9B50A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6418743-214A-46AD-81E5-6FD39DC3E916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6418743-214A-46AD-81E5-6FD39DC3E916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6418743-214A-46AD-81E5-6FD39DC3E916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6418743-214A-46AD-81E5-6FD39DC3E916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EA5966-A3E3-4F2E-A3DF-EDE1135219A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EA5966-A3E3-4F2E-A3DF-EDE1135219A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EA5966-A3E3-4F2E-A3DF-EDE1135219A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EA5966-A3E3-4F2E-A3DF-EDE1135219A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
