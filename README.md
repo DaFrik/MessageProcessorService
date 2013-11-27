@@ -22,7 +22,7 @@ Data Fok http://techdatadigest.blogspot.com
 
 Usage
 ================
-Read the sameple code in ProcessController
+Read the sample code in ProcessController
 
 Library Used
 ============
